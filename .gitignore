@@ -3,6 +3,7 @@
 .flaskenv
 *.pyc
 *.pyo
+.env_file
 kubectl.exe
 env/
 env*
