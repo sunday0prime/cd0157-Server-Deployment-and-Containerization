@@ -3,6 +3,7 @@
 .flaskenv
 *.pyc
 *.pyo
+kubectl.exe
 env/
 env*
 dist/
